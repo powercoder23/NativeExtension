@@ -1,0 +1,1 @@
+adt -package -target apk -storetype pkcs12 -keystore certficate/12345.p12 -storepass 12345 ninjatoss3.apk TestANE-app.xml TestANE.swf -extdir lib
